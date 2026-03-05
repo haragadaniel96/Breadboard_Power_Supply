@@ -14,4 +14,12 @@ Designed and developed a versatile linear power supply module tailored for rapid
 * **Dual-Interface Outputs:** Maximized benchtop versatility by providing two physical connection methods per channel: standard 2.54mm pin headers (optimized for Dupont wires and direct breadboard insertion) and screw terminals for secure, high-current bare-wire connections.
 
 
+### Schematic
+![Schema Electrica](schematic.png)
+
+
+### Design PCB 
+![PCB Layout](pcb.png)
+
+### 3D View
 ![Vedere 3D a modulului de alimentare](Breadboard_power_supply.png)
