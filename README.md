@@ -12,3 +12,6 @@ Designed and developed a versatile linear power supply module tailored for rapid
 **User-Centric Design & Connectivity:**
 * **Independent Channel Selection:** Engineered an output architecture featuring two isolated delivery channels. Integrated 3-pin header selectors that allow the user to independently route either the 5V or 3.3V rail to each specific output.
 * **Dual-Interface Outputs:** Maximized benchtop versatility by providing two physical connection methods per channel: standard 2.54mm pin headers (optimized for Dupont wires and direct breadboard insertion) and screw terminals for secure, high-current bare-wire connections.
+
+
+![Vedere 3D a modulului de alimentare](Breadboard_power_supply.png)
