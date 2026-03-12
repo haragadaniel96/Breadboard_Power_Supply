@@ -22,4 +22,4 @@ Designed and developed a versatile linear power supply module tailored for rapid
 ![PCB Layout](pcb.png)
 
 ### 3D View
-![Vedere 3D a modulului de alimentare](Breadboard_power_supply.png)
+![Vedere 3D a modulului de alimentare](pcb2.png)
